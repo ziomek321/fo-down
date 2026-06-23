@@ -10,7 +10,7 @@ and this https://modrinth.com/resourcepack/barebones-better-leaves?version=1.21.
 
 REAL MODPACK: https://modrinth.com/modpack/fabulously-optimized -20 fps btw
 added: texture packs, mods (look what i added)
-</details>
+<details>
 <summary>Kliknij, aby zobaczyć spoiler</summary>
 C2ME
 
